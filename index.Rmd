@@ -1,0 +1,170 @@
+---
+title       : Weight Loss Management Plan
+subtitle    : Weight loss using daily calorie reduction
+author      : Sandra Cuffee
+job         : Student
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Table of Contents
+
+1. Introduction
+2. Explicit Resolution
+3. Methods
+4. Diet
+5. Weight Management Plan
+6. Chances of Plan Succeding
+7. Conclusion
+*. Bibliography
+
+--- .class #id 
+
+## Introduction
+  
+  The number one New Year's resolution for 2015 was lose weight.
+  
+  
+  1. 45% of Americans make some type of New Year's resolution
+  
+  2. 46% maintained their resolution past 6 months
+  
+  3. Success rate for those under 30 was 39%
+  
+  4. Success rate for those over 50 was 14%
+  
+  5. Explict resolutions were 10 times more successful
+  
+  
+  
+
+  
+
+     
+
+Statistic Brain Researc Institute,2015
+
+
+---
+## Explicit Resolution
+
+  Set SMART goals.
+ 
+ 
+ 1. Specific 
+ 
+ 2. Manageable
+ 
+ 3. Achievable
+ 
+ 4. Realistic
+ 
+ 5. Trackable
+ 
+
+Health Media Venture Inc, 2015
+
+---
+## Methods
+
+The main three methods are listed below.
+
+1. Diet
+
+2. Exercise
+
+3. Diet and Exercise
+
+4. Diet will be the focus of the reamiander of the presentation
+
+
+
+Health Media Venture Inc, 2015
+
+---
+## Diet
+
+
+
+1. Change what you eat
+
+2. Reduce how much you eat
+
+3. Drink more water
+
+4. Add a piece of produce to your diet
+
+3. Start slow
+
+
+
+Scott, J.R., 2015, and WEBMD, LLC, 2015
+
+
+
+---
+## Weight Management Plan
+
+One pound of weight is equal to 3500 calories.
+
+1. Use your SMART goal to decide how many pounds you would like to lose
+
+2. The Weight Management Plan can help you calculate how many days to reach your goal
+
+3. Visit https://srceditor04.shinyapps.io/WeightLoss
+
+
+
+
+---
+## Chances of Plan Succeding
+
+The formula is based on your age and the duration (in days) of the plan.
+
+1. Use the data from the Weight Loss Management Plan
+
+2. Use your age at the plan start date
+
+3. Type successChance(your age, days) and enter the return.
+
+
+Statistic Brain Researc Institute,2015
+
+---
+## Conclusion
+  
+  Weight loss can and will vary from person to person due to many factors beyond diet,
+  
+such as your activity level, physical makeup, and condition at the start of the plan.  If
+
+losing weight will be your New Year's resolution, I hope you will find the Weight Management
+
+Plan useful.  
+   
+   
+Thank You
+
+
+---
+## Bibliography
+
+
+Cuffee, S.R., 2015, Weight Loss Management Plan,
+  https://srceditor04.shinyapps.io/WeightLoss
+
+Health Media Venture Inc, 2015. Weight-Loss solutions for the New Year,
+  http://www.health.com/health/gallery/0,,20437260_4,00.html  
+
+Scott, J.R., 2015, New Year's Resolutions to Lose Weight: This Year Resolve to ...,
+ http://weightloss.about.com/od/emotionsmotivation/qt/resolveto.htm
+
+Statistic Brain Research Institute,2015. New Year's Resolution,
+  http://www.statisticbrain.com/new-years-resolution-statistics/
+
+WEBMD, LLC, 2015,  5 Diet Resolutions for New Year, 
+  http://www.webmd.com/diet/5-diet-resolutions-new-year
+  
